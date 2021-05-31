@@ -1,0 +1,16 @@
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.exe
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.deps.json
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.runtimeconfig.json
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.runtimeconfig.dev.json
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.dll
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\ref\game-top.dll
+C:\dev\CursoFullstack\game-top\bin\Debug\net5.0\game-top.pdb
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.csprojAssemblyReference.cache
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.AssemblyInfoInputs.cache
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.AssemblyInfo.cs
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.csproj.CoreCompileInputs.cache
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.dll
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\ref\game-top.dll
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.pdb
+C:\dev\CursoFullstack\game-top\obj\Debug\net5.0\game-top.genruntimeconfig.cache

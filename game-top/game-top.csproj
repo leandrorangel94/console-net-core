@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\game-top.lib\game-top.Lib.csproj" />
+    <ProjectReference Include="..\game-top.interface\game-top.Interface.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>game_top</RootNamespace>
+  </PropertyGroup>
+
+</Project>
